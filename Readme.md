@@ -1,5 +1,6 @@
 # Introdução a Automação Web
 
+
 ## Sobre mim
 
 Meu nome é Gustavo Ferreira e atuo há mais de 10 anos na área de Qualidade. Meu objetivo com este treinamento é aprofundar meus conhecimentos técnicos para integrar a automação de forma estratégica ao ciclo de vida do produto. Busco potencializar a eficiência dos nossos processos e garantir entregas com alto valor agregado e agilidade.
